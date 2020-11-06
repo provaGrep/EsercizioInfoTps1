@@ -1,0 +1,92 @@
+h1
+{
+    text-align: center;
+    font-size: 50px;
+    margin-bottom: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h2
+{
+    border-width: 1px;
+    border-style: solid;
+    border-color: #ccc;
+    text-align: center;
+    padding: 2px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3
+{
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+#nav1
+{
+    font-size: large;
+    padding-bottom: 3px; 
+    width: 24.3%;
+    border-width: 2px;
+    border-style: solid;
+    border-color: #ccc;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    float: left;
+    margin-left: 3px;
+}
+
+#page
+{
+    width: 1000px;
+    margin: 10px auto;
+    text-align: center;
+}
+
+#header
+{
+    height: 425px;
+}
+
+#image
+{
+    height: 300px;
+    width: 975px;
+    margin-bottom: 5px;
+}
+
+#presentation
+{
+    height: 150px;
+    width: 75%;
+    float: left;
+    margin-top: 10px;
+    text-align: justify;
+}
+
+#description
+{
+    border-width: 1px;
+    border-style: double;
+    border-color: #ccc;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin-top: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#nav2
+{
+    float: right;
+    width: 24%;
+    height: 100px;
+    margin-top: 10px;
+    border-width: 1px;
+    border-style: double;
+    border-color: #ccc;
+    padding-bottom: 2px;
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
